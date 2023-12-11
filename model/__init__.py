@@ -1,13 +1,10 @@
 from sqlalchemy_utils import database_exists, create_database, drop_database
-from sqlalchemy.orm import sessionmaker, joinedload
+from sqlalchemy.orm import sessionmaker
 from sqlalchemy import create_engine
 import os
 
 # importando os elementos definidos no modelo
 from model.base import Base
-from model.carrinho import Carrinho
-from model.carrinhoProduto import CarrinhoProduto
-
 
 db_path = "database/"
 # Verifica se o diretorio não existe
