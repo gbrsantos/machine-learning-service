@@ -12,11 +12,11 @@ Este projeto é uma aplicação de aprendizado de máquina supervisionado de cla
 - sqlAlchemy
 - matplotlib
 
-Testes
+# Testes
+
 O projeto inclui testes das saídas para o modelo que foi desenvolvido.
 ````
 pytest -v test_modelos.py
-
 ````
 
 ---
