@@ -1,8 +1,8 @@
 # ProntuFacil
 
-Este pequeno projeto faz parte do MVP da Disciplina Qualidade de Software, segurança e sistemas inteligente.
+Este pequeno projeto faz parte do MVP da Disciplina de Gestão Ágil de Projetos e Produtos.
 
-# Aplicação de machine learning em python
+# Sobre o projeto
 Este projeto envolve a ideação e planejamento inicial do MVP de um novo produto de software..
 
 # O que é? 
