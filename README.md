@@ -3,38 +3,19 @@
 Este pequeno projeto faz parte do MVP da Disciplina Qualidade de Software, segurança e sistemas inteligente.
 
 # Aplicação de machine learning em python
-Este projeto é uma aplicação de aprendizado de máquina supervisionado de classificação. É possível obter uma previsão das saídas de acordo com o dataset fornecido.
+Este projeto envolve a ideação e planejamento inicial do MVP de um novo produto de software..
 
-# Bibliotecas
-- scikit-learn
-- numpy
-- flask
-- sqlAlchemy
-- matplotlib
+# O que é? 
+Gestão fácil e unificada de todos os processos da clínica.
 
-# Testes
+# O que faz?
+- Visualizador das informações dos pacientes
+- Agendamento de pacientes
+- Gestão do faturamento da clínica
+- Controle de estoque
+- Gestão dos anexos referente a consulta do paciente
 
-O projeto inclui testes das saídas para o modelo que foi desenvolvido.
-````
-pytest -v test_modelos.py
-````
-
----
-## Como executar 
-
-> Antes, garanta ter instalado a versão mais recentes do [docker](https://docs.docker.com/desktop/install/windows-install/).
-
-```
-docker-compose build
-```
-Este comando instala a aplicação.
-
-```
-docker-compose up
-```
-
-Este comando roda a aplicação.
-
-Abra o [http://localhost:5000/#/](http://localhost:5000/#/) no navegador para verificar o status da API em execução.
-
------
+# Como foi elaborado?
+- Para a ideação do MVP foi utilizado o template do Lean Inception feito pelo Pauli Caroli e disponível em [https://caroli.org/template-lean-inception-remota-miro/](https://caroli.org/template-lean-inception-remota-miro/).
+- Para a criação do backlog do produto foi utilizado o Jira.
+- Para a prototipação foi utilizado o figma.
